@@ -3,9 +3,9 @@
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
 ## Final Product
-!["Screenshot of Jungle 1"]()
-!["Screenshot of Jungle 2"]()
-!["Screenshot of Jungle 3"]()
+!["Screenshot of Jungle 1"](https://github.com/DashaDasha88/jungle/blob/master/images/junglescreenshot1.png)
+!["Screenshot of Jungle 2"](https://github.com/DashaDasha88/jungle/blob/master/images/junglescreenshot2.png)
+!["Screenshot of Jungle 3"](https://github.com/DashaDasha88/jungle/blob/master/images/junglescreenshot3.png)
 
 ## Additional Steps for Apple M1 Machines
 
