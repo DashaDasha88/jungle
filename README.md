@@ -2,6 +2,11 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Final Product
+!["Screenshot of Jungle 1"]()
+!["Screenshot of Jungle 2"]()
+!["Screenshot of Jungle 3"]()
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
